@@ -33,8 +33,8 @@ This is a curated list of the resources of video stabilization methods. If you f
 |2021|ICCV|[Out-of-boundary View Synthesis Towards Full-Frame Video Stabilization](https://arxiv.org/pdf/2108.09041.pdf)||
 |2021|BMVC|[Self-Supervised Real-time Video Stabilization](https://arxiv.org/pdf/2111.05980.pdf)||
 |2022|WACV|[Deep Online Fused Video Stabilization](https://arxiv.org/pdf/2102.01279)|[project page](https://zhmeishi.github.io/dvs/)<br>[code](https://github.com/googleinterns/deep-stabilization)(official)|
-|2023|ICCV|[Minimum Latency Deep Online Video Stabilization](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_Minimum_Latency_Deep_Online_Video_Stabilization_ICCV_2023_paper.html)|[code/dataset](https://github.com/liuzhen03/NNDVS)(official)|
+|2023|ICCV|[Minimum Latency Deep Online Video Stabilization](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_Minimum_Latency_Deep_Online_Video_Stabilization_ICCV_2023_paper.html)|[code/dataset](https://github.com/liuzhen03/NNDVS)(official)在线算法|
 |2023|ICCV|[Fast Full-frame Video Stabilization with Iterative Optimization](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhao_Fast_Full-frame_Video_Stabilization_with_Iterative_Optimization_ICCV_2023_paper.pdf)|[code](https://github.com/zwyking/Fast-Stab)(official) No model|
 |2024|CVPR|[3D Multi-frame Fusion for Video Stabilization](https://arxiv.org/abs/2404.12887)|[code](https://github.com/pzzz-cv/RStab)(official)|
-|2025|SIGGRAPH|[GaVS: 3D-Grounded Video Stabilization via Temporally-Consistent Local Reconstruction and Rendering](https://sinoyou.github.io/gavs/)|[code](https://github.com/sinoyou/GaVS)(official)<br>[dataset](https://huggingface.co/datasets/sinoyou/gavs-data/tree/main/dataset)|
+|2025|SIGGRAPH|[GaVS: 3D-Grounded Video Stabilization via Temporally-Consistent Local Reconstruction and Rendering](https://sinoyou.github.io/gavs/)|[code](https://github.com/sinoyou/GaVS)(official)<br>[dataset](https://huggingface.co/datasets/sinoyou/gavs-data/tree/main/dataset) 预处理太复杂|
 
